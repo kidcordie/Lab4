@@ -5,6 +5,7 @@ public class Lab4Class {
 		System.out.println("Hello World"); // Hope
 		System.out.println("How are you?"); // Good
 		// This is just a comment okay?
+		// this is a new comment
 	}
 
 }
